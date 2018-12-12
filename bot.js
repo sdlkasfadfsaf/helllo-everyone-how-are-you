@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = "-"
-
+const developers = ["370828320910213131"]
 
 console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
 console.log('         [Wait please .. ]       ')
